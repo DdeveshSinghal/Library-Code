@@ -19,7 +19,7 @@ class Library{
             if (book == null){
                 continue;
             }
-            System.out.println("* "+book);
+            System.out.println("* "+books);
         }
     }
 
